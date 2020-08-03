@@ -1,14 +1,3 @@
-/*********************************************************************/
-/**   ACH2001 - Introdução à Programação                            **/
-/**   EACH-USP - Primeiro Semestre de 2020                          **/
-/**   Matutino - Professor Digiampietri                             **/
-/**                                                                 **/
-/**   Terceiro Exercício-Programa                                   **/
-/**                                                                 **/
-/**   Laura Steinert de Freitas                   10725244          **/
-/**                                                                 **/
-/**   Data de Entrega: 01/06                                        **/
-/*********************************************************************/
 
 /*
 	Jogo da Velha - programa para verificar o status de um jogo.
